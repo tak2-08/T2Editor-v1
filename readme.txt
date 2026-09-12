@@ -1,0 +1,5 @@
+ver_1.4.2
+date_2025.03.15
+Copyright (c) 2025 Tak2 (dsclub.kr)
+license_License_ko.txt & License_en.txt
+email_dsclub2023@gmail.com
